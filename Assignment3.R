@@ -1,8 +1,8 @@
-install.packages("rvest")
-install.packages("tidyverse")
-install.packages("shiny")
-install.packages("shinydashboard")
-install.packages("leaflet")
+#install.packages("rvest")
+#install.packages("tidyverse")
+#install.packages("shiny")
+#install.packages("shinydashboard")
+#install.packages("leaflet")
 
 library(rvest)
 library(tidyverse)
